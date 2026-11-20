@@ -1,6 +1,6 @@
 # Hi, I'm Moukthika! 👋
 
-🎓 Engineering Student
+🎓 Engineering Student[ECE]
 
 Interested in Technology and Programming
 
